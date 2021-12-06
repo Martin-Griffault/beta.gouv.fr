@@ -12,4 +12,4 @@ startups:
   - eva
 ---
 
-Couteau suisse un jour, couteau suisse toujours.
+En charge de la consolidation d'Eva au sein de l'Agence nationale de lutte contre l'illettrisme (ANLCI).
